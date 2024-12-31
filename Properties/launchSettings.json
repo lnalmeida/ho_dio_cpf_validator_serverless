@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ho_dio_cpf_validator_serverless": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7107",
+      "launchBrowser": false
+    }
+  }
+}
